@@ -7,4 +7,4 @@ i made this for fun, u can use it in a daily use but its an interpreter for now,
 
 made for electricmoss
 
-snorp
+[snorp](https://github.com/3pm-on-github/snorplang/blob/main/snorp.png?raw=true)
