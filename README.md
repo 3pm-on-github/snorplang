@@ -1,3 +1,6 @@
+# snorplang is discontinued
+due to copyright infrigement of the word "snorp"
+but its gonna be replaced with slungilang
 # snorplang v0.0.01A
 
 this programming language will make u snorp<br>
