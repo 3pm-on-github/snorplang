@@ -1,5 +1,5 @@
 # snorplang is discontinued
-due to copyright infrigement of the word "snorp"
+due to copyright infrigement of the word "snorp"<br>
 but its gonna be replaced with slungilang
 # snorplang v0.0.01A
 
